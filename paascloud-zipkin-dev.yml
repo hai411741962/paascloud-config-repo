@@ -8,7 +8,7 @@ spring:
     locator:
       discovery:
         enabled: true
-
+# 1
 zipkin:
   collector:
     rabbitmq:
