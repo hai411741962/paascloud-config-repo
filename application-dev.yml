@@ -13,7 +13,7 @@ spring:
     proxy-target-class: true
     auto: true
   rabbitmq:
-    host: 47.96.100.107
+    host: getbang-mp-rabbit
     port: 5672
     username: guest
     password: guest
